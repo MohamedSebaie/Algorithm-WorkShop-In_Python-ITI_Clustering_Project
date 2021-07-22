@@ -1,16 +1,14 @@
 # Algorithm-WorkShop-In_Python-ITI_Clustering_Project
 DBSCAN vs Merging Mean-Shift with K-Means  (Mean shift and K-Means algorithm are two similar clustering algorithms; both of them extract information from data with some kind of mean vector operations.  compare these two algorithms and show a way, with VisuMap software, to combine them to get much better clustering tools.) 
 # K-Means , Mean-Shift and DBSCAN from Scratch
-# python Programming
-## Project in Master Branch
 # Team Members GR3 ITI:							  						                       										                     
 
-        1- Abdullah Abdelhakeem
-        2- Mohamed Mostafa
-        3- ElShaimaa Hassan
-        4- Mohamed Sebaie
-        5- Osama Ahmed
-        6- Lamiaa Omar													                       	
+  1- Abdullah Abdelhakeem
+  2- Mohamed Mostafa
+  3- ElShaimaa Hassan
+  4- Mohamed Sebaie
+  5- Osama Ahmed
+  6- Lamiaa Omar													                       	
 # Date: 
         - 13 July 2021																                         
 # Version: 
